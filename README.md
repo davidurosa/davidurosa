@@ -1,4 +1,4 @@
-## Hola, I'm David Pino 🥨
+## Hola, I'm David Urosa 🥨
 *I'm a Game Developer and Concept Artist*
 
 ### About me 🏓
