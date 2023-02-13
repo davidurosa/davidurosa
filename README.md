@@ -1,5 +1,5 @@
 ## Hola, I'm David Urosa 🥨
-*I'm a Game Developer and Concept Artist*
+*I'm working on web programming*
 
 ### About me 🏓
 - 🎓🏫 I'm regularly learning new technologies
