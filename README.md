@@ -1,6 +1,4 @@
-<h2 align="left">👋 I'm David Urosa, a passionate full stack programmer.  <br>💻 I excel in both front-end and back-end development with modern tools.  <br>🔧 I tackle complex challenges by creatively optimizing processes.  <br>🚀 Committed to innovation, I transform ideas into digital solutions.</h2>
-
-
+<h2 align="left">👋 I'm David Urosa, a passionate full stack programmer.  <br><br>💻 I excel in both front-end and back-end development with modern tools.  <br><br>🔧 I tackle complex challenges by creatively optimizing processes. <br> <br>🚀 Committed to innovation, I transform ideas into digital solutions.</h2>
 
 ###
 
